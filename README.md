@@ -1,4 +1,4 @@
-         ## Hi 👋 My name Salome Mbithe
+## Hi 👋 My name is Salome Mbithe
 
 ### A passionate Data Scientist
 
@@ -8,3 +8,6 @@
 - 📑 Know about my experiences www.linkedin.com/in/salome-mbithe-bb79b920b
 - ⚡ Fun fact: I find my zen both in the pool and behind the screen!✨
 
+### Skills and Tools
+
+### Connect with me 
