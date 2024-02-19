@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Salome Mbithe
 
-A passionate Data Scientist
+### A passionate Data Scientist
 
 - 🌱 I’m currently learning Python and SQL.
 - 💬 Ask me about data analytics.
