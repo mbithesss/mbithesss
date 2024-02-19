@@ -1,4 +1,4 @@
-## Hi 👋 My name is Salome Mbithe
+## Hi there 👋 My name is Salome Mbithe
 
 ### A passionate Data Scientist
 
