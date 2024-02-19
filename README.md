@@ -9,5 +9,6 @@
 - ⚡ Fun fact: I find my zen both in the pool and behind the screen!✨
 
 ### Skills and Tools
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql)](https://skillicons.dev)
 
 ### Connect with me 
