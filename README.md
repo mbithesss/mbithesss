@@ -6,5 +6,5 @@ A passionate Data Scientist
 - 💬 Ask me about data analytics.
 - 📫 How to reach me mbulambithe@gmail.com
 - 📑 Know about my experiences www.linkedin.com/in/salome-mbithe-bb79b920b
-- ⚡ Fun fact I find my zen both in the pool and behind the screen!✨
+- ⚡ Fun fact: I find my zen both in the pool and behind the screen!✨
 
