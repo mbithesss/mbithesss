@@ -8,7 +8,7 @@ A passionate Data Scientist
 - Reach me at mbulambithe@gmail.com
 
 ## 📦 Toolbox 
-Programming Languange: `Python`
+Programming Languanges: `Python`
 <br><br>
 Data Preprocessing: `Numpy` `Pandas` <br><br>
 Database Technologies: `SQL` `MySQL` `PostgreSQL` <br><br>
