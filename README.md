@@ -3,9 +3,9 @@
 A passionate Data Scientist
 
 - I’m currently learning MLOps and various machine learning libraries, aiming for end-to-end mastery.  
-- Ask me about data analytics.
-- How to reach me mbulambithe@gmail.com 
+- Ask me about data analytics. 
 - Know about my experiences: [Linkedn](www.linkedin.com/in/salome-mbithe-bb79b920b)
+- Reach me via [Email](mbulambithe@gmail.com)
 
 ## 📦 Toolbox 
 Programming Languange: <span style="background-color: #333; color: white; padding: 5px; border-radius: 5px;">Python</span>
