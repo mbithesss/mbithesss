@@ -8,12 +8,12 @@ A passionate Data Scientist
 - Reach me at mbulambithe@gmail.com
 
 ## 📦 Toolbox 
-Programming Languange: **Python**
+Programming Languanges: `Python`
 <br><br>
-Data Preprocessing: **Numpy** **Pandas** <br><br>
-Database Technologies: **SQL** **MySQL** **PostgreSQL** <br><br>
-Machine Learning Frameworks: **Scikit-learn** **TensorFlow** <br><br>
-Data Visualization: **Matplotlib** **Seaborn** **PowerBi** <br><br>
+Data Preprocessing: `Numpy` `Pandas` <br><br>
+Database Technologies: `SQL` `MySQL` `PostgreSQL` <br><br>
+Machine Learning Frameworks: `Scikit-learn` `TensorFlow` <br><br>
+Data Visualization: `Matplotlib` `Seaborn` `PowerBi` <br><br>
 
 ## ✨️ Fun facts
 - I find my zen both in the pool and behind the screen.
