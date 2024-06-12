@@ -8,7 +8,7 @@ A passionate Data Scientist
 - Reach me via [Email](mbulambithe@gmail.com)
 
 ## 📦 Toolbox 
-Programming Languange: <span style="background-color: #333; color: white; padding: 5px; border-radius: 5px;">Python</span>
+Programming Languange: **Python**
 <br><br>
 Data Preprocessing: **Numpy** **Pandas** <br><br>
 Database Technologies: **SQL** **MySQL** **PostgreSQL** <br><br>
@@ -16,5 +16,5 @@ Machine Learning Frameworks: **Scikit-learn** **TensorFlow** <br><br>
 Data Visualization: **Matplotlib** **Seaborn** **PowerBi** <br><br>
 
 ## ✨️ Fun facts
-- I find my zen both in the pool and behind the screen!
-- I love animations
+- I find my zen both in the pool and behind the screen.
+- I love animations.
