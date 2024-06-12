@@ -4,7 +4,7 @@ A passionate Data Scientist
 
 - I’m currently learning MLOps and various machine learning libraries, aiming for end-to-end mastery.  
 - Ask me about data analytics. 
-- Know about my experiences: [Linkedn]([www.linkedin.com/in/salome-mbithe-bb79b920b](https://www.linkedin.com/in/salome-mbithe-bb79b920b/))
+- Check out my [Linkedn](https://www.linkedin.com/in/salome-mbithe-bb79b920b/) to know more about my experiences.
 - Reach me via [Email](mbulambithe@gmail.com)
 
 ## 📦 Toolbox 
