@@ -8,7 +8,7 @@ A passionate Data Scientist
 - Know about my experiences: [Linkedn](www.linkedin.com/in/salome-mbithe-bb79b920b)
 
 ## 📦 Toolbox 
-Programming Languange: **Python**
+Programming Languange: <span style="background-color: #333; color: white; padding: 5px; border-radius: 5px;">Python</span> <br><br>
 Data Preprocessing: **Numpy** **Pandas** <br><br>
 Database Technologies: **SQL** **MySQL** **PostgreSQL** <br><br>
 Machine Learning Frameworks: **Scikit-learn** **TensorFlow** <br><br>
