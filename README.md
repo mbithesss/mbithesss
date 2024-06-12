@@ -15,6 +15,6 @@ Database Technologies: `SQL` `MySQL` `PostgreSQL` <br><br>
 Machine Learning Frameworks: `Scikit-learn` `TensorFlow` `Keras` <br><br>
 Data Visualization: `Matplotlib` `Seaborn` `PowerBi` <br><br>
 
-## ✨️ Fun facts
+## ✨️ Fun Facts
 - I find my zen both in the pool and behind the screen.
 - I love animations.
