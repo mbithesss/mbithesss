@@ -8,9 +8,9 @@
 - Know about my experiences www.linkedin.com/in/salome-mbithe-bb79b920b
 - Fun fact: I find my zen both in the pool and behind the screen!✨
 
-## 🧰 Toolbox 
+## 📦 Toolbox 
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql)](https://skillicons.dev)
 
 ## ✨️ Fun facts
--I find my zen both in the pool and behind the screen!
+- I find my zen both in the pool and behind the screen!
 - I love animations
