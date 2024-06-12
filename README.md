@@ -8,10 +8,10 @@ A passionate Data Scientist
 - Know about my experiences: [Linkedn](www.linkedin.com/in/salome-mbithe-bb79b920b)
 
 ## 📦 Toolbox 
-Data Preprocessing: Python (Numpy, Pandas) <br>
-Database Technologies: SQL, MySQL, PostgreSQL
-Machine Learning Frameworks: Scikit-learn, TensorFlow
-Data Visualization: Matplotlib, Seaborn, PowerBi
+Data Preprocessing: Python (Numpy, Pandas) <br><br>
+Database Technologies: SQL, MySQL, PostgreSQL <br><br>
+Machine Learning Frameworks: Scikit-learn, TensorFlow <br><br>
+Data Visualization: Matplotlib, Seaborn, PowerBi <br><br>
 Version Control: Git
 
 ## ✨️ Fun facts
