@@ -11,7 +11,7 @@ A passionate Data Scientist
 Programming Languanges: `Python`
 <br><br>
 Data Preprocessing: `Numpy` `Pandas` <br><br>
-Database Technologies: `SQL` `MySQL` `PostgreSQL` <br><br>
+Database Technologies: `SQL` <br><br>
 Machine Learning Frameworks: `Scikit-learn` `TensorFlow` `Keras` <br><br>
 Data Visualization: `Matplotlib` `Seaborn` `PowerBi` <br><br>
 
