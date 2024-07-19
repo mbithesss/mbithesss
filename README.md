@@ -8,7 +8,7 @@ A passionate Data Scientist & Machine Learning Engineer
 - Reach me at mbulambithe@gmail.com
 
 ## 📦 Toolbox 
-Programming Languanges: `Python`
+Programming Languages: `Python`
 <br><br>
 Data Preprocessing: `Numpy` `Pandas` <br><br>
 Database Technologies: `SQL` <br><br>
