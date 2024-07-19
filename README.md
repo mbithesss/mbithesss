@@ -1,6 +1,6 @@
 ### Hey, I'm Salome Mbithe 👋🏾
 
-A passionate Data Scientist
+A passionate Data Scientist & Machine Learning Engineer
 
 - I’m currently learning SQL, MLOps and various machine learning libraries, aiming for end-to-end mastery.  
 - Ask me about data analytics. 
